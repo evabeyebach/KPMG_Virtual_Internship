@@ -1,5 +1,5 @@
 # KPMG_Virtual_Internship
-The KPMG Data Analytics Virtual Internship is designed to help gain a practical insight into the work they do at KPMG and it is an opportunity for us to build our career skills and experience. It consists of three different tasks (Data Quality Assessment, Data Insights and Presentation). They want to know which customers to target (out of the New Customer List) in order to improve their business.
+The KPMG Data Analytics Virtual Internship is designed to help gain a practical insight into the work at KPMG and it is an opportunity for everyone to build our career skills and experience. It consists of three different tasks (Data Quality Assessment, Data Insights and Presentation). The clients wants to know which customers to target (out of the New Customer List) in order to improve their business.
 
 ## Introduction
 Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd  is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. The client has provided KPMG with 4 different datasets (Customer Demographic, Customer Addresses, Transactions and New Customer List).
