@@ -11,7 +11,7 @@ Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisatio
 - Drafting an email to the client, identifying the data quality issues and strategies to mitigate these issues.
 
 ## Task 2: Data Insights
-### Targeting high value customers based on customer demographics and attributes from NewCustomer List
+### Target high value customers based on customer demographics and attributes from NewCustomer List
 To build this recommendation, first start with a PowerPoint presentation which outlines the approach to take and focuse on three different Phases: Data Exploration; Model Development and Interpretation. All this by implementing: 
 - Data Analytics
 - Customer Segmentation
